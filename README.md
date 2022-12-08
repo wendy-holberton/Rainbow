@@ -27,3 +27,5 @@ env ‐ Prints environmental variables Ex ‐ env
 exit ‐ Exits the shell Ex ‐ exit
 
 AUTHORS Pallivi Jagtap, Matt Buckingham and Wendy Wu
+
+![image](https://user-images.githubusercontent.com/113806658/206355286-07871c7b-0a3a-4cc4-8eca-1df8214cab12.png)
