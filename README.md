@@ -1,11 +1,11 @@
 # Boom!
 HOW IT WORKS
 
-Prompt to the user (’$’), representing that it is ready to accept
+## Prompt to the user (’$’), representing that it is ready to accept
 user  input.   After it reads the arguments and executes the com‐
 mands in order which are provided by the user.
 
-Order of execution of command ‐
+# Order of execution of command ‐
 
 User input will split into tokens, these tokens will be  compared
 to  builtin  command,  if  it  matches  then  it will execute the
